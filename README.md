@@ -1,5 +1,3 @@
-![Crack Geetest](./screenshots/crack-geetest.gif)
-
 ### Python 2.7
 ```bash
 $ brew install python
